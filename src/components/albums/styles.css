@@ -1,0 +1,75 @@
+.container{
+    max-width: 1080px;
+    max-height: 1100px;
+
+}
+.image{
+    height: 200px;
+    width: 200px;
+    border: transparent;
+    object-fit: cover;
+
+
+}
+
+.link{
+   font-size: 1.3rem; 
+}
+
+.title h2{
+    font-size: 1rem;
+    margin-top: .5rem;
+    display: flex;
+
+}
+.title h2 p{
+    font-weight: bold;
+}
+.column-song{
+    margin-top: -200px;
+}
+.column-img{
+ 
+   
+    position: relative;
+    margin-top: -185px;
+    margin-left: 250px;
+    
+}
+
+.fileForm{
+  
+    display: flex;
+    height: 4rem;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.mg-r{
+    margin-right: auto;
+    
+}
+.padd{
+    padding: 3rem;
+    
+}
+.key{
+    display: flex;
+    border: 1px solid #222;
+    padding: 4px;
+    border-radius: 0.5rem;
+    margin:  1rem 0 1rem 0;
+}
+
+.key span {
+    margin-left: auto;
+}
+
+.btns{
+    width: 7rem;
+    display: flex;
+    height: 5em;
+    align-items: center;
+    justify-content: space-around;
+}
